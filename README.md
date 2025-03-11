@@ -15,4 +15,4 @@ A simple **Amazon Clone** built using **HTML & CSS**, replicating the homepage o
 ## 📂 Installation & Usage
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/Akshat-12345/Amazon-Clone.git
