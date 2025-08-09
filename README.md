@@ -2,6 +2,8 @@
 
 A simple **Amazon Clone** built using **HTML & CSS**, replicating the homepage of the popular e-commerce platform.
 
+Akshat Bajpai
+
 ## 🔥 Features
 ✅ Fully responsive design  
 ✅ Clean and structured HTML & CSS  
